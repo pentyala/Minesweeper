@@ -1,4 +1,4 @@
-#MineSweeper
+# MineSweeper
  This is the source of 
  <a href="https://en.wikipedia.org/wiki/Minesweeper_(video_game)" target="_BLANK">MineSweeper</a>
  game developed in Java.
